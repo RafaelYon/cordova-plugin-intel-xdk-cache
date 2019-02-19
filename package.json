@@ -1,0 +1,35 @@
+{
+  "name": "intel.xdk.cache",
+  "version": "1.2.5-dev",
+  "description": "Intel XDK Cache Plugin",
+  "cordova": {
+    "id": "intel.xdk.cache",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelYon/cordova-plugin-intel-xdk-cache"
+  },
+  "keywords": [
+    "cordova",
+    "device",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Intel Corporation",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/intel/cordova-plugin-intel-xdk-cache/issues"
+  },
+  "homepage": "https://github.com/intel/cordova-plugin-intel-xdk-cache"
+}

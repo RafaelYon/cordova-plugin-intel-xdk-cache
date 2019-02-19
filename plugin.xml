@@ -21,7 +21,7 @@ and limitations under the License
     <description>Intel XDK Cache Plugin</description>
     <license>Apache 2.0</license>
     <keywords>Intel XDK,intel.xdk,cache</keywords>
-    <repo>https://github.com/01org/cordova-plugin-intel-xdk-cache.git</repo>
+    <repo>https://github.com/RafaelYon/cordova-plugin-intel-xdk-cache</repo>
     <issue></issue>
 
    <!-- wp8 -->
